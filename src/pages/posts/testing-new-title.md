@@ -6,3 +6,9 @@ authorURL: steph@stephhays.dev
 layout: ../../layouts/BlogPost.astro
 ---
 This is the body, test test test.
+
+`testing code block and update.`
+
+```javascript
+yay javascript.
+```
